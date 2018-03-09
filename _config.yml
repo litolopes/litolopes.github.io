@@ -16,7 +16,7 @@ baseurl:
 github: 'litolopes/litolopes.github.io'
 
 # Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
+gaaccount: 'UA-115020575-1'
 
 # The 'comments' setting enables comments. You'll need to select either
 # disqus or isso below to choose a comment system. Individual posts can
