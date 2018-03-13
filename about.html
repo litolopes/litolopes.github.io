@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="well">
+    <h1>Sobre mim</h1>
+    <!-- Output author details if some exist. -->
+    {% if author %}
+        <span>
+            <!-- Mugshot. -->
+            <img src="{{ author.email | to_gravatar }}" alt="A photo of {{ author.name }}" />
+
+            <!-- Personal Info. -->
+            Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        </span>
+    {% endif %}
+    <span>
+        <center>
+            <img src="https://media.licdn.com/media/AAEAAQAAAAAAAAvmAAAAJGVkN2ZmYzdmLTc1NTItNDJkYy1hZTdjLWI0MWNmYjljMzQzNA.jpg" />
+        </center>
+    </span>
+    <p>Degree in Computer Science from Technology College (2002), Masters (2007) and PhD (2015) in Mechanical Engineering from USP (Brazil). Visiting Researcher from Cranfield University (2014) at England - UK .</p>
+    <p>An experienced PhD professional who has worked in R&D in both private and public companies, with experience in Computer Science and emphasis on the process of software development, database design, systems integration and data acquisition.</p>
+    <p>Area of Expertise: Education, formation process, systems development, systems integration and design, GIS (Geographic Information Systems), Database geographical, ISOBUS (ISO 11783) and Education.</p>
+</div>
