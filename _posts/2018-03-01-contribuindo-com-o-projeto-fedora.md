@@ -45,7 +45,7 @@ A resposta dessa pergunta é: Não.
 
 O processo para se inscrever na comunidade Fedora:
 
-## 1 - Criar uma conta FAS (Fedora Account System)
+# 1 - Criar uma conta FAS (Fedora Account System)
 
 No link [post][fedora-FAS] é possível criar uma conta com usuário e email.
 
@@ -62,7 +62,7 @@ Após a criação da conta FAS será enviado um email de confirmação com o usu
         caption="Confirmação da criação da conta FAS" %}
 
 
-## 2 - Logar na sua conta FAS
+# 2 - Logar na sua conta FAS
 
 No primeiro acesso a conta FAS você terá acesso as informações da conta, o status (ativa ou inativa). Na imagem abaixo é possível verificar que a conta foi ativada com sucesso. 
 
@@ -80,7 +80,7 @@ Além da ativação da conta é necessário assinar e aceitar os termos (agreeme
 
 Para ler os termos e aceitá-los, basta clicar em "complete it" ao lado do "Contributor Agreement".
 
-## 3 - Aguardar aprovação da conta FAS
+# 3 - Aguardar aprovação da conta FAS
 
 Após a criação da conta e o aceite dos termos do contribuidor, a conta irá para uma pessoa da comunidade aprovar. Na conta FAS será apresentado o status da conta "Aguardando Aprovação", na seção "Signers of the Fedora Project Contributor Agreement". Normalmente esse processo é bastante rápido e logo após a aprovação você receberá um email do aprovador da conta, que será o "mentor". 
 Mentor: cada novo usuário terá um mentor que oferecerá suporte nas primeiras atividades e nos processos da comunidade. O mentor será seu ponto principal de contato e responsável pelo processo de onboarding na comunidade. Após seu cadastro em um dos grupos de trabalho dentro da comunidade você receberá um email de um mentor solicitando que você se apresente e indicando os melhores caminhos e práticas dentro da comunidade.
