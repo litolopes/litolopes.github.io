@@ -15,6 +15,12 @@ Essa dinâmica gera um ciclo que quanto maior a velocidade da inovação, maior 
 
 Certamente um profissional formado 5 anos atrás está trabalhando com alguma tecnologia que não fez parte da grade curricular do curso de TI, ou mesmo das aulas práticas nos laboratórios. Alguns exemplos são: DevOps e Cloud Computing (OpenStack), que lideram as listas de demandas e que em comum possuem as características de terem sido desenvolvidas em comunidades Open Source.
 
+Se manter atualizado é um desafio tanto para profissionais que já atuam no mercado, quanto para estudantes e professores de Universidades. Cada vez mais a contribuição e a participação em comunidades importantes tem se tornado muito importante para manter-se atualizado em relação ao desenvolvimento de novas tecnologias. 
+
+Existem mais de um milhão de projetos disponíveis no GitHub, são mais de um milhão de oportunidades de conhecer temas relacionados a inovação das tecnologias, pessoas que atuam nessas comunidades.  Dentre essa lista, a comunidade Fedora é uma excelente comunidade para iniciar sua participaçao em projetos Open Source, além de ter grande número de desenvolvedores ao redor do mundo, tem grande maturidade ja gestão, comunicação e nos processos de desenvolvimento do sistema operacional Fedora.
+
+Como uma pessoa pode inscrever-se na comunidade Fedora e tornar-se um contribuidor ?
+
 A comunidade fedora é composta por muitos grupos de desenvolvimento, entre eles:
 
 * Fedora Ambassadors
@@ -34,16 +40,15 @@ A comunidade fedora é composta por muitos grupos de desenvolvimento, entre eles
 
 Mesmo entre profissionais experientes no mercado que estão em busca de se especializarem, ou entre estudantes que estão se preparando para entrarem no mercado de trabalho, possuem as mesmas dúvidas: 
 
-- É necessário ter grande conhecimento técnico para contribuir com as comunidades Open Source ? 
-
-- Como eu posso contribuir para a comunidades Open Source ? 
-
-- Quais são os benefícios em contribuir com as comunidades Open Source ?
+- É necessário ter conhecimento técnico avançado para contribuir com as comunidades Open Source ? 
 
 A resposta dessa pergunta é: Não. 
 
+Qualquer pessoa que esteja disposta a contribuir pode se cadastrar na comunidade e, através de um mentor (contribuidor mais experiênte da comunidade), escolher grupos de trabalho para participar. Não é necessário nenhum conhecimento avançado, e a sugestão é iniciar a contribuição em grupos como, por exemplo: Testes ou Tradução de Documentos.
 
-O processo para se inscrever na comunidade Fedora:
+A participação nesses grupos permitirá adquirir tanto conhecimentos técnicos, seja realizando testes ou traduzindo documentação técnica, quanto conhecimentos dos processos de gestão da comunidade. 
+
+O processo para se inscrever na comunidade Fedora e se tornar um contribuidor está descrito nas etapas:
 
 # 1 - Criar uma conta FAS (Fedora Account System)
 
