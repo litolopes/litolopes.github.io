@@ -92,29 +92,27 @@ O BugZila é a ferramenta onde se registra todas as necessidades de desenvolvime
 
 Através do BugZila é possível consultar as informações referentes a atividade, como por exemplo: 
 
-- Status: Nova
-- Qual componente:  RFE 
-- Prioridade: Média
-- Data e quem reportou o problema: 2017-02-27 01:19 EST by Jaspreet Kaur	
-- Quem é o responsável pela atividade: Ben Parees
-- Quem é o responsável pelo QA: Xiaoli Tian
+- Status: **Nova**
+- Qual componente:  **RFE** 
+- Prioridade: **Média**
+- Data e quem reportou o problema: **2017-02-27 01:19 EST by Jaspreet Kaur**	
+- Quem é o responsável pela atividade: **Ben Parees**
+- Quem é o responsável pelo QA: **Xiaoli Tian**
 
 
 # 3 - COMUNICAÇÃO
 
-Reach out to the OpenShift team and other community contributors through IRC and our mailing list:
+As ferramentas de comunicação adotapa pelos contribuidores da comunidade OpenShift são: 
 
-IRC: Hop onto the #openshift-dev channel on FreeNode.
+IRC: **#openshift-dev** no **FreeNode**.
 
-E-mail: Join the OpenShift developers' mailing list.
-
-
+E-mail: Cadastre-se para fazer parte da lista de desenvolvedores [site][email-cadastro].
 
 
 Aproveite para contribuir, se desenvolver profissionalmente e, principalmente, "conhecer" outros contribuidores ! 
 
 
-
+[email-cadastro]: http://lists.openshift.redhat.com/openshiftmm/listinfo/dev
 [openshift-roadmap]: https://ci.openshift.redhat.com/roadmap_overview.html
 [openshift-roadmap-trello]: https://trello.com/b/nlLwlKoz/atomicopenshift-roadmap
 [openshift-project]: https://commons.openshift.org/
