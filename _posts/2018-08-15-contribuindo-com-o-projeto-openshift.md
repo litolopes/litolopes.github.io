@@ -16,7 +16,7 @@ Como escrevi no artigo sobre como contribuir com a Comunidade Fedora [post][como
 
 Além da comunidade Fedora, atualmente existem mais de 1.800.000 comunidades e projetos abertos no GitHub. Cada comunidade apresenta uma série de oportunidades para novos contribuidors. No mercado de TI, um tema que está em evidência é a infraestrutura baseada em containers, que permite maior flexibilidade e agilidade na gestão de aplicações. O conceito de PaaS - Plataforma as a Service, baseada em containers, é implementado através da tecnologia (e da comunidade) OpenShift. 
 
-A comunidade OpenShift pode ser encontrada em [site][openshift-origin]  é dividida em vários sub-grupos de trabalho que se especializam em alguns temas, entre eles: 
+A comunidade OpenShift pode ser encontrada em [GitHub][openshift-origin-github]  é dividida em vários sub-grupos de trabalho que se especializam em alguns temas, entre eles: 
 
 * OpenShift OPS
 * Machine Learning on OpenShift
