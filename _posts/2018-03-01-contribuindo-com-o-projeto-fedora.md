@@ -6,6 +6,7 @@ author: Wellington Carlos Lopes - litolopes
 comments: true
 ---
 
+Teste
 
 Atualmente estamos nos deparando constantemente com os impactos da Transformação Digital no nosso dia a dia, principalmente o quanto essas novas tecnologias estão alterando o comportamento humano.
 
