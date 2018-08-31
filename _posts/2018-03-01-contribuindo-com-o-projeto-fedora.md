@@ -6,8 +6,6 @@ author: Wellington Carlos Lopes - litolopes
 comments: true
 ---
 
-Teste
-
 Atualmente estamos nos deparando constantemente com os impactos da Transformação Digital no nosso dia a dia, principalmente o quanto essas novas tecnologias estão alterando o comportamento humano.
 
 Muitos fatores estão contribuindo para fomentar e suportar a Transformação Digital. Entre os principais fatores podemos destacar a adoção de tecnologias Open Source, que por meio de comunidades, integra pessoas de todo o mundo na solução de problemas e no desenvolvimento de novas tecnologias. Sendo assim, os principais responsáveis por criar e impulsionar a evolução tecnológica são as pessoas, mais precisamente, são os conhecimentos desenvolvidos, aplicados (de forma transparente) e compartilhados por elas.
