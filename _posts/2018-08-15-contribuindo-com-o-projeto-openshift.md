@@ -106,10 +106,13 @@ As ferramentas de comunicação adotapa pelos contribuidores da comunidade OpenS
 
 IRC: **#openshift-dev** no **FreeNode**.
 
-E-mail: Cadastre-se para fazer parte da lista de desenvolvedores [site][email-cadastro].
+E-mail: Cadastre-se para fazer parte da lista de desenvolvedores [aqui][email-cadastro].
 
 
 Aproveite para contribuir, se desenvolver profissionalmente e, principalmente, "conhecer" outros contribuidores ! 
+
+
+**FREEDOM COURAGE COMMITMENT ACCOUNTABILITY**
 
 
 [email-cadastro]: http://lists.openshift.redhat.com/openshiftmm/listinfo/dev
@@ -117,6 +120,6 @@ Aproveite para contribuir, se desenvolver profissionalmente e, principalmente, "
 [openshift-roadmap-trello]: https://trello.com/b/nlLwlKoz/atomicopenshift-roadmap
 [openshift-project]: https://commons.openshift.org/
 [openshift-guidelines-contribution]: https://github.com/openshift/origin-server/blob/master/CONTRIBUTING.md
-https://github.com/openshift/origin/blob/master/CONTRIBUTING.adoc
+[openshift-guidelines-contribution2]: https://github.com/openshift/origin/blob/master/CONTRIBUTING.adoc
 [openshift-origin-github]:https://github.com/openshift/origin 
 [como-contribuir-fedora]: https://litolopes.github.io/2018/02/contribuindo-com-o-projeto-fedora
