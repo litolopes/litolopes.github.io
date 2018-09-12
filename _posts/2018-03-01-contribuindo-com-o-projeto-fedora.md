@@ -54,14 +54,14 @@ O processo para se inscrever na comunidade Fedora e se tornar um contribuidor es
 No link [post][fedora-FAS] é possível criar uma conta com usuário e email.
 
 {% include image-local.html
-        img="images/Fedora/1-FAS-Form.png"
+        img="images/Fedora/fas-form-editado.png"
         title="Formulário de criação do usuário FAS."
         caption="Criação de usuário FAS" %}
 
 Após a criação da conta FAS será enviado um email de confirmação com o usuário, email e a senha para acessar o portal da comunidade Fedora. 
 
 {% include image-local.html
-        img="images/Fedora/2-Confirmacao-FAS.png"
+        img="images/Fedora/email-confirmacao-ed.png"
         title="Email de confirmação do cadastro da conta FAS."
         caption="Confirmação da criação da conta FAS" %}
 
@@ -71,14 +71,14 @@ Após a criação da conta FAS será enviado um email de confirmação com o usu
 No primeiro acesso a conta FAS você terá acesso as informações da conta, o status (ativa ou inativa). Na imagem abaixo é possível verificar que a conta foi ativada com sucesso. 
 
 {% include image-local.html
-        img="images/Fedora/3-Conta.png"
+        img="images/Fedora/approval-waiting-ed.png"
         title="Status da conta FAS."
         caption="Status da conta FAS" %}
 
 Além da ativação da conta é necessário assinar e aceitar os termos (agreement) da comunidade Fedora.  Você pode encontrar o agreement que foi assinado nessa conta **aqui**.  Na imagem acima o ítem agreement aparece como não aceito e é indicado com o checkbox vermelho. 
 
 {% include image-local.html
-        img="images/Fedora/5-EsperaAprovacao.png"
+        img="images/Fedora/fedora-agreement-ed.png"
         title="Aguardando aprovação da conta FAS."
         caption="Aguardando aprovação da conta FAS" %}
 
@@ -95,7 +95,7 @@ Mentor: cada novo usuário terá um mentor que oferecerá suporte nas primeiras 
 Após a aprovação da conta FAS 
 
 {% include image-local.html
-        img="images/Fedora/6-Aprovado.png"
+        img="images/Fedora/approved-ed.png"
         title="Conta FAS aprovada."
         caption="Conta FAS aprovada." %}
 
