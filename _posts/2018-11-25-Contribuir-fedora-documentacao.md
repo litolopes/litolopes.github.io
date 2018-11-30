@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projeto Fedora - Contribuindo com o grupo de documentação"
+title: "Projeto Fedora - Contribuindo com o grupo de Traduções"
 date: 2018-11-25 10:00:00 -03:00
 author: Wellington Carlos Lopes - litolopes
 comments: true
