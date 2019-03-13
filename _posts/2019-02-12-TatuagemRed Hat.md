@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Você tatuou o logo da sua empresa no braço ? "
+title: "Você tatuou o logo da empresa que você trabalha ? "
 date: 2019-02-12  10:00:00 -03:00
 author: Wellington Carlos Lopes - litolopes
 comments: true
@@ -9,7 +9,7 @@ comments: true
 
 
 
-“Você tatuou o logo da sua empresa? “
+“Você tatuou o logo da empresa que você trabalha ? “
 
 
 Há 3 anos atrás eu decidi fazer uma tatuagem com o Logo da Red. Hat, empresa líder de fornecimento de soluções de tecnologias baseadas no modelo Open Source, e desde então recebo vários questionamentos sobre o “porque” de tatuar um logo.  As principais perguntas são: 
@@ -34,7 +34,7 @@ Em 2009 eu trabalhava como Analista de Sistemas em uma empresa de Campinas – S
 
 As únicas opções que eu tinha eram continuar nas aulas de inglês ou fazer um intercambio de no máximo 30 dias (durante o período de férias), que achava ser pouco tempo.
 
-Um certo dia um (grande) amigo me chamou para iniciar o Doutorado na USP de São Carlos e participar de um projeto de inovação com ele. A proposta era desenvolver uma pesquisa de doutora com possibilidade de trabalhar em alguns projetos e, talvez, desenvolver parte da pesquisa no exterior.  
+Um certo dia um (grande) amigo me chamou para iniciar o Doutorado na USP de São Carlos e participar de um projeto de inovação com ele. A proposta era desenvolver uma pesquisa de doutorado com possibilidade de trabalhar em alguns projetos e, talvez, desenvolver parte da pesquisa no exterior.  
 Proposta que me deixou bastante motivado, mas que me forçou abandonar o ótimo trabalho que eu tinha. O que para minha família e amigos eram um ato impensado. 
 
 Pedi demissão, retornei para São Carlos e iniciei o doutorado na USP. Durante um período do desenvolvimento do trabalho de pesquisa fiquei sem bolsa de estudo, o que significou ficar 6 meses sem nenhum rendimento. Nesse momento eu me deparei com a realidade de muitos alunos de pós-graduação que concorrem a poucas bolsas de pesquisas, que no melhor dos casos, é de R$ 2.400,00/mês. 
@@ -68,6 +68,11 @@ Fui convocado para meu primeiro treinamento,
 
 
 
+
+
+Nombre Carolina Porco carolina.porco@educacion.gob.ar RHLogin: carolinaporco
+
+Marcelo Anderson marcelo.anderson@educacion.gob.ar RHLogin marceloanderson
 
 
 
