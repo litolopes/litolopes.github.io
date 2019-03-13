@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Você tatuou o logo da empresa que você trabalha ? "
+title: "Você tatuou o logo da empresa que trabalha ? "
 date: 2019-02-12  10:00:00 -03:00
 author: Wellington Carlos Lopes - litolopes
 comments: true
@@ -60,39 +60,6 @@ Fui convocado para meu primeiro treinamento,
  
 
 
-
-
-
-
-
-
-
-
-
-
-Nombre Carolina Porco carolina.porco@educacion.gob.ar RHLogin: carolinaporco
-
-Marcelo Anderson marcelo.anderson@educacion.gob.ar RHLogin marceloanderson
-
-
-
-
-
-
-
-
-{% include image-local.html
-        img="images/fedora-traducao/zanata-principal--.png"
-        title="Página principal do Zanata ."
-        caption="" %}
-
-
-
-
-{% include image-local.html
-        img="images/fedora-traducao/primeiro-login--.png"
-        title="Primeiro Login no Zanata."
-        caption="" %}
 
 
 
